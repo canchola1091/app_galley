@@ -1,2 +1,2 @@
 # app_galley
-Capturas o selecciona fotos desde tu archivos y  los muestra en dos vistas diferentes (Lista ó Grid)
+Captura fotos o selecciona imagenes desde tus archivos y  los muestra en dos vistas diferentes (Lista ó Grid)
